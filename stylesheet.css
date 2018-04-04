@@ -156,6 +156,10 @@
         font-family: "Verdana", sans-serif;
     }
 
+    h3 {
+      text-align: center;
+    }
+
     p {
         text-align: center;
         font-family: "Verdana", sans-serif;
